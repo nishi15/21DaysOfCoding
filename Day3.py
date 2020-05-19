@@ -1,5 +1,5 @@
 # Challenge name :- 21 days of Coding
-# Day = 2
+# Day = 3
 
 """
 prob description = Given an unsorted array arr[] of size N, rotate it by D elements (clockwise).
