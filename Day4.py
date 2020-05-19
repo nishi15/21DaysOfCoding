@@ -28,7 +28,7 @@ def leader(arr):
     print(arr[-1])
 
 
-# leader([7, 4, 5, 7, 3])
+leader([7, 4, 5, 7, 3])
 
 # Code 2
 """
